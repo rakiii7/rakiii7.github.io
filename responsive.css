@@ -1,0 +1,8 @@
+@media(max-width: 670px){
+    .friend{
+        width:50%;
+    }
+    .like{
+        width: 50%;
+    }
+}

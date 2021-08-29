@@ -1,4 +1,4 @@
-@media (max-width: 390px){
+@media all and (max-width: 390px){
     .header{
         width:100%
         text-align:left;

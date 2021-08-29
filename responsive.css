@@ -1,12 +1,4 @@
-@media(max-width: 670px){
-    .friend{
-        width:50%;
-    }
-    .like{
-        width: 50%;
-    }
-}
-@media(max-width: 670px){
+@media(max-width: 700px){
     .header-logo{
         font-size: 24px;
     }

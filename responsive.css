@@ -29,4 +29,9 @@
     .text-contants2{
         font-size: 14px;
     }
+    .container p{
+        font-size: 14px;
+        text-align: center;
+    }
+   
 }

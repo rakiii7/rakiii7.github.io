@@ -1,5 +1,6 @@
 @media(max-width: 1080px){
     .header{
+        width:100%
         text-align:left;
     }
    

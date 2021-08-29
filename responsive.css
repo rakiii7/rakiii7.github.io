@@ -1,5 +1,6 @@
 @media all and (max-width: 670px){
     .header{
+        height:none;
         width:100%;
     }
     .header-logo{
@@ -7,6 +8,7 @@
     }
     li{
         float:none;
+        font-size:20px;
     }
     .top-wrapper{
         width:100%;

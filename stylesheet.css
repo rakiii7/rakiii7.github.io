@@ -141,7 +141,7 @@ p{
 .clear{
     clear: left;
 }
-@media all and (max-width: 670px){
+@media(max-width: 670px){
     .header{
         height:none;
         width:100%;

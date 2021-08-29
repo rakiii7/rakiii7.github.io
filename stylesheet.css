@@ -79,12 +79,7 @@ p{
     font-weight: bold;
     letter-spacing: 5px;
 }
-@media(max-width: 670px){
-    .icon{
-        width: 100%;
-    flex-direction: column;
-        align-items: center;
-}
+
 .clear{
     clear: left;
 }

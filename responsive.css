@@ -5,10 +5,11 @@
     }
     .header-logo{
         float:none;
+        padding-left:10px;
     }
     li{
-        float:none;
-        font-size:20px;
+        float:left;
+        font-size:15px;
     }
     .top-wrapper{
         width:100%;

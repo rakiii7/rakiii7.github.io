@@ -23,7 +23,7 @@ li{
    padding:33px 20px;
 }
 .top-wrapper{
-    background-image: url(https://github.com/rakiii7/rakiii7.github.io/blob/main/background.jpg);
+    background-image: url(https://github.com/rakiii7/rakiii7.github.io/blob/main/background.jpg?raw=true);
     background-size: cover;
     text-align:center;
     padding: 180px 0;
@@ -126,7 +126,7 @@ p{
 .footer{
     width: 100%;
     display: block;
-    background-image: url(https://github.com/rakiii7/rakiii7.github.io/blob/main/me.jpg);
+    background-image: url(https://github.com/rakiii7/rakiii7.github.io/blob/main/me.jpg?raw=true);
     background-size: cover;
     text-align:center;
     padding: 180px 0;

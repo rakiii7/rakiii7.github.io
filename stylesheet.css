@@ -79,7 +79,7 @@ p{
     font-weight: bold;
     letter-spacing: 5px;
 }
-@media(max-width: 600px){
+@media(max-width: 700px){
     .icon{
         width: 100%;
     flex-direction: column;

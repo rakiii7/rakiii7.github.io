@@ -1,1 +1,76 @@
+@media all and (max-width: 670px){
+    .header{
+        height:none;
+        width:100%;
+    }
+    .header-logo{
+        float:none;
+    }
+    li{
+        float:none;
+        font-size:20px;
+    }
+    .top-wrapper{
+        width:100%;
+        text-align:center;
+        font-size:30px;
+        padding: 130px 0;
+    }
+    .container{
+      width:100%;
+    }
+    .friend-wrapper{
+        text-align:center;
+    }
+    h1{
+        font-size:25px;
+    }
+    p{
+        font-size:15px;
+    }
+    .headeing-f h2{
+        padding:20px 0;
+        font-size:15px;
+    }
+    .friend{
+        float:none;
+        width:100%
+    }
+    .friend p{
+        font-size:25px;
+    }
+     .text-contents1{
+        font-size: 14px;
+    }
+    .heading-l h2{
+        padding:20px 0;
+        font-size:15px;
+    }
+    .like-wrapper{
+        text-align:center;
+    }
+    .like{
+        float:none;
+        width:100%;
+    }
+    .like p{
+        font-size:12px;
+    }
+    .text-contants2{
+        font-size:11px;
+    }
+    .frienf-icon{
+        float:none;
+        width:100%;
+    }
+    .like-icon{
+        flaot:none;
+        width:100%;
+    }
 
+    .footer{
+        width: 100%;
+        text-align: center;
+        font-size:15px;
+    }
+}

@@ -1,4 +1,8 @@
 @media(max-width: 1080px){
+    .header{
+        text-align:left;
+    }
+   
     .top-wrapper{
         width:100%;
         text-align:center;

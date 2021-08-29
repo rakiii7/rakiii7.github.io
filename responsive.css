@@ -17,7 +17,7 @@
         text-align:center;
         font-size:30px;
         padding: 130px 0;
-        background-size:100%;
+        background-size:contain;
     }
     .container{
       width:100%;

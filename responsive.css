@@ -37,7 +37,7 @@
     }
     .friend{
         float:none;
-        width:100%;
+        width:50%;
         padding-bottom:10px;
     }
     .friend p{
@@ -65,7 +65,7 @@
     }
     .icon{
         float:none;
-        width:100%;
+        width:50%;
     }
 
     .footer{
